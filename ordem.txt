@@ -1,0 +1,10 @@
+﻿1 - Criação de feature no git flow com nome: CÓDIGO DE TASK DO JIRA (branch)
+-- Commit subject: CÓDIGO DE TASK DO JIRA - DESCRIÇÃO RESUMIDA
+-- Commit message: Explicação da tarefa
+
+2 - Após finalização e push, abrir pull request da branch da tarefa para develop
+3 - Na sequencia selecionamos alguém para code review e validação da tarefa para fechar o pull request
+
+4 - Após validação, se okay pull request aprovado e 'squash' feito para mergiar
+
+
